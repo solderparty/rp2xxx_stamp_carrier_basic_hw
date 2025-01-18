@@ -1,0 +1,12 @@
+*.kicad_pcb-bak
+*.kicad_sch-bak
+*.kicad_prl
+*.dcm
+*.bak
+*.bck
+*.lck
+gerb
+gerber
+*-backups
+#auto_saved_files#
+_autosave-*.*
